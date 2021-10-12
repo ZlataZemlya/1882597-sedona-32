@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Злата Землянская](https://up.htmlacademy.ru/htmlcss/32/user/1882597).
-* Наставник:[Вадим Канинский](https://htmlacademy.ru/profile/id78842). 
+* Наставник:[Вадим  Канинский](https://vadimcpp.ru/). 
 
 ---  
 
